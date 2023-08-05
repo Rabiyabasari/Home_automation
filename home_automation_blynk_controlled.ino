@@ -7,9 +7,9 @@ Pheripherals  :   Arduino UNO , Temperature system, LED, LDR module, Serial Tank
 // Template ID, Device Name and Auth Token are provided by the Blynk.Cloud
 // See the Device Info tab, or Template settings
 
-#define BLYNK_TEMPLATE_ID "TMPLXYApN3G3"
+#define BLYNK_TEMPLATE_ID ""
 #define BLYNK_DEVICE_NAME "Home Automation"
-#define BLYNK_AUTH_TOKEN "gpgZmHFtsvSZtcZ7MpVGIAz6cf7rdsw9"
+#define BLYNK_AUTH_TOKEN ""
 
 // // Comment this out to disable prints 
 // #define BLYNK_PRINT Serial
